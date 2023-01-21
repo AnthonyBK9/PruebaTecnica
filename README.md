@@ -5,4 +5,4 @@
 
 Tecnologías utilizadas NodeJS y MySQL
 
-
+Las consultas SQL que se utilizaron de encuentras en la ruta /src/db/database.sql para su conrespondiente observación 
