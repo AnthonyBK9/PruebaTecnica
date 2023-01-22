@@ -1,6 +1,6 @@
 import { pool } from "../utils/database.js";
 
-export const getMiembrosByIdorName = async (req, res) => {
+export const getMiembroByIdorName = async (req, res) => {
     const { id, nombre } = req.body;
 
     if ( id, nombre) {
